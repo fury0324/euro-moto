@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Swal from 'sweetalert2'
-import Login from './components/Login'
+import Login from './components/login'
 import ForgotPassword from './components/ForgotPassword'
 
 function App() {
