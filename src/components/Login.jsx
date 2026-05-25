@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import Swal from 'sweetalert2'
-import '../css/Login.css'
+import '../css/login.css'
 import mailIcon from '../assets/mail.svg'
 import mailIconLight from '../assets/mail-light.svg'
 import lockIcon from '../assets/lock-keyhole.svg'
